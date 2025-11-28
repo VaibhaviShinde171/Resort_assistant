@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Complete my project report",
+        "priority": "Medium",
+        "due_date": "2023-10-30",
+        "completed": true,
+        "created_at": "2025-11-27T08:58:19.934118"
+    },
+    {
+        "task": "Buy groceries",
+        "priority": "High",
+        "due_date": null,
+        "completed": false,
+        "created_at": "2025-11-27T09:02:26.484678"
+    },
+    {
+        "task": "Pay electricity bill",
+        "priority": "High",
+        "due_date": "2023-10-05",
+        "completed": false,
+        "created_at": "2025-11-27T09:03:47.928271"
+    },
+    {
+        "task": "Read books",
+        "priority": "Medium",
+        "due_date": null,
+        "completed": false,
+        "created_at": "2025-11-27T12:46:39.052117"
+    }
+]

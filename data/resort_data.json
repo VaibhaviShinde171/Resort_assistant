@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Swimming Pool",
+        "description": "Our resort features a large outdoor pool open from 7 AM to 8 PM."
+    },
+    {
+        "title": "Spa & Wellness",
+        "description": "Relax at our full-service spa offering massages, facials, and yoga sessions."
+    },
+    {
+        "title": "Dining",
+        "description": "Enjoy a variety of cuisines at our in-house restaurant with both indoor and outdoor seating."
+    },
+    {
+        "title": "Conference Hall",
+        "description": "Fully equipped conference hall for business meetings and events."
+    },
+    {
+        "title": "Beach Access",
+        "description": "Private beach area accessible to resort guests with sunbeds and umbrellas."
+    }
+]

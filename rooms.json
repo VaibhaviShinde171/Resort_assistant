@@ -1,0 +1,10 @@
+
+[
+    {"room_no": 101, "type": "Deluxe", "price": 1200},
+    {"room_no": 102, "type": "Deluxe", "price": 1200},
+    {"room_no": 201, "type": "Suite", "price": 2000},
+    {"room_no": 202, "type": "Suite", "price": 2000},
+    {"room_no": 301, "type": "Standard", "price": 1000},
+    {"room_no": 302, "type": "Standard", "price": 1000}
+]
+
