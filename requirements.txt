@@ -1,0 +1,11 @@
+streamlit
+streamlit-mic-recorder
+langchain
+langchain-openai
+langchain-community
+langchain-tavily
+python-dotenv
+openai
+tavily-python
+pydantic
+requests
